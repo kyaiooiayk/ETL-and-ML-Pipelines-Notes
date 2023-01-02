@@ -15,13 +15,13 @@
 
 ## Step #1 - Procedural pipeline
 - The first rule while trying to create a model deployment pipeline is to always set the random seed in oder to make sure your cod e is reproducible.
-- The rewritten code can be found [here]() where there is a notebooks for each steps. 
+- The rewritten codes can be found [here]() where there is a notebooks for each steps. 
 - A typical Machine learning pipeline for production is mainly composed of four (give or take) steps:
     - Data Gathering
     - Features engineering
     - Features selection
     - Model Building
-- In this cases these slightly different:
+- In this cases these are slightly different:
     - 1.0-insurance-Data_Analysis.ipynb
     - 2.0-insurance-Feature_Engineering.ipynb
     - 3.0-insurance-Feature_Selection.ipynb
