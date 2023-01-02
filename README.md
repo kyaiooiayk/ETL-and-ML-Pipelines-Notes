@@ -4,6 +4,11 @@
 - **ELT** is best suited for large volumes of data and implemented in cloud environments where the large storage and computing power available enables the data lake to quickly store and transform data as needed. ELT is also more flexible when it comes to the format of data but will require more time to process data for queries since that step only happens as needed versus ETL where the data is instantly queryable after loading.
 ***
 
+## ML Pipeline
+- This concerns how to write pipeline for model deployment. 
+- Compared to an ETL pipeline, it is still a pipeline, but it follows the whole process up to deployment. So a Ml pipeline incorporate an ETL pipeline.
+***
+
 ## A note on the notebook rendering
 Each notebook has two versions (all python scripts are unaffected by this):
 - One where all the markdown comments are rendered in black& white. These are placed in the folder named `GitHub_MD_rendering` where MD stands for MarkDown.
