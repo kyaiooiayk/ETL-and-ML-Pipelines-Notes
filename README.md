@@ -18,7 +18,7 @@ Each notebook has two versions (all python scripts are unaffected by this):
 ## Available tutorials
 - [ETL_in_Keras_TF](https://github.com/kyaiooiayk/ETL-Pipelines-Notes/blob/main/tutorials/GitHub_MD_rendering/ETL_in_Keras_TF.ipynb)
 - [Simple ETL pipeline](https://github.com/kyaiooiayk/ETL-Pipelines-Notes/blob/main/tutorials/GitHub_MD_rendering/Simple%20ETL%20pipeline.ipynb)
-[From jupyter notebook to ML production pipeline with GitHub actions](https://github.com/kyaiooiayk/CI-CD-Pipeline-with-GitHub-Actions)
+- [From jupyter notebook to ML production pipeline with GitHub actions](https://github.com/kyaiooiayk/CI-CD-Pipeline-with-GitHub-Actions)
 ***
 
 ## References
