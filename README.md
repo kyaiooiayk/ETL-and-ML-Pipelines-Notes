@@ -24,4 +24,5 @@ Each notebook has two versions (all python scripts are unaffected by this):
 ## References
 - [Data Pipelines Explained - YouTube](https://www.youtube.com/watch?v=6kEGUCrBEU0)
 - [ETL vs ELT - Article](https://blog.hubspot.com/website/etl-vs-elt)
+- [How to Unit Test Deep Learning](https://theaisummer.com/unit-test-deep-learning/)
 ***
